@@ -1,6 +1,8 @@
 #include <stdio.h>
 //este projeto visa calcular as operações basicas e algumas avançadas que a galera vai gastar o final de semana pra me enviar
 int soma(int a, int b){ return a + b;}
+int sub(int a, int b){ return a - b;}
+int mul(int a, int b){ return a * b;}
 
 int main() {
 	int a, b, c;
